@@ -1,0 +1,19 @@
+    .but {
+    text-align : Center;
+    margin-top: 50px;
+    font-size: 200%;
+   }
+
+   h1 {
+    color: red;
+    text-align : Center;
+    font-size: 300%;
+   }
+
+   body {
+    padding: 0%;
+   }
+   
+   .css_navbar {
+    background-color: aqua;
+   }

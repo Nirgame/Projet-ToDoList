@@ -1,0 +1,27 @@
+récup taches			X getTask       X
+récup users				X getUser       X
+récup team				X getTeam       X
+link user->team			X addUser_Team  X (+DelUser_Team)
+récup comment		    X getComment    X
+
+attribuer task user/team	X giveTask
+
+create user				X createUser    X
+create team				X createTeam    X
+create comments			X createComment X
+create task				X createTask    X
+modif user				X modifUser     X
+modif team				X modifTeam     X
+modif task				X modifTask     X
+modif comments			X modifComment  X
+
+modif task user/team	X remove_givenTask
+
+del user				X delUser       X
+del team				X delTeam       X
+del task				X delTask       X
+del comments			X delComments   X
+BDD retour				X Withreturn    X
+BDD sans retour			X Withoutreturn X
+login					X login         X
+log write				X directWritelogX
